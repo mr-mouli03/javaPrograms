@@ -11,7 +11,5 @@ public class datatype{
         System.out.println (e);
         System.out.println(name);
 
-
-
 }
 }
